@@ -54,7 +54,7 @@ def process_request(worker_config= "workers.json"):
         request_queue.append("incoming_request_data")
 
 
-@app.route('/mew_request', methods=['GET'])
+@app.route('/new_request', methods=['GET'])
 def new_request():
     threading.Thread(
         target=process_request, args=()
