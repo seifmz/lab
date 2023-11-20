@@ -1,1 +1,1 @@
-{"container1": {"ip": "3.83.88.225", "port": "5000", "status": "free"}, "container2": {"ip": "54.166.51.12", "port": "5000", "status": "free"},"container3": {"ip": "54.89.20.162", "port": "5000", "status": "free"},"container4": {"ip": "44.208.163.41", "port": "5000", "status": "free"}}
+{"container1": {"ip": "44.204.78.211", "port": "5000", "status": "free"}, "container2": {"ip": "44.212.8.114", "port": "5000", "status": "free"},"container3": {"ip": "44.211.173.73", "port": "5000", "status": "free"},"container4": {"ip": "44.202.230.234", "port": "5000", "status": "free"}}
